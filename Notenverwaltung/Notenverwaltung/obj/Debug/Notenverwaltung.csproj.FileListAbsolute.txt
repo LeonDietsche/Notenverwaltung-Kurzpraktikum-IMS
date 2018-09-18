@@ -1,0 +1,7 @@
+c:\users\diets\source\repos\Notenverwaltung\Notenverwaltung\bin\Debug\Notenverwaltung.exe.config
+c:\users\diets\source\repos\Notenverwaltung\Notenverwaltung\bin\Debug\Notenverwaltung.exe
+c:\users\diets\source\repos\Notenverwaltung\Notenverwaltung\bin\Debug\Notenverwaltung.pdb
+c:\users\diets\source\repos\Notenverwaltung\Notenverwaltung\obj\Debug\Notenverwaltung.csprojAssemblyReference.cache
+c:\users\diets\source\repos\Notenverwaltung\Notenverwaltung\obj\Debug\Notenverwaltung.csproj.CoreCompileInputs.cache
+c:\users\diets\source\repos\Notenverwaltung\Notenverwaltung\obj\Debug\Notenverwaltung.exe
+c:\users\diets\source\repos\Notenverwaltung\Notenverwaltung\obj\Debug\Notenverwaltung.pdb
